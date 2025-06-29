@@ -8,7 +8,7 @@ Examples/Demo
 -------------
 * [https://tsstats.thisisgaming.org/](https://tsstats.thisisgaming.org/) (since 24/08/2014)
 * [http://stats.sonic-server.net/](http://stats.sonic-server.net/) (since 01/01/2018)
-* [https://tsstats.loyal-life.de/](https://tsstats.loyal-life.de/) (since 01/12/2022)
+* [https://tsstats.loyal-life.de/](https://tsstats.thatspepe.de/) (since 01/12/2022)
 * *do you use this? let me know, and I'll put a link here if you want*
 
 Notes
